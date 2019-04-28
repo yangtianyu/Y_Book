@@ -7,4 +7,3 @@
     * [iOS](main/ios/001oc.md)
 * [Other]()
     * [编程语言分类](main/other/language_type.md)
-  12312321
